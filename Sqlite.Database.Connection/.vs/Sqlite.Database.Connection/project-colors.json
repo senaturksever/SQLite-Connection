@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e966ffdc-aded-4ae1-8859-c731e5d2f100": {
+      "ProjectGuid": "e966ffdc-aded-4ae1-8859-c731e5d2f100",
+      "DisplayName": "Sqlite.Database.Connection",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
